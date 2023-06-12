@@ -1,0 +1,1 @@
+SELECT * FROM Win32_ComputerSystem WHERE Model LIKE "%Optiplex%%7060%"
